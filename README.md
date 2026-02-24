@@ -6,7 +6,11 @@ This repo is kept separate from the main drumkit repo to keep it light. Binary W
 
 ## Included Kits
 
-- **freepats-gm** — General MIDI drum kit from the [FreePats](https://freepats.zenvoid.org/) project, with velocity layers and round-robin variations
+| Kit | Style | Velocity Layers | Round Robins | Notes | Size | License |
+|-----|-------|----------------|--------------|-------|------|---------|
+| **freepats-gm** | General MIDI | up to 2 | up to 9 | 68 files | 18MB | GPL v3+ |
+| **avl-black-pearl** | Acoustic rock | 5 | - | 128 files | 21MB | CC-BY-SA 3.0 |
+| **virtuosity-jazz** | Contemporary jazz | up to 36 | up to 4 | 434 files | 227MB | CC0 |
 
 ## Usage
 
@@ -35,6 +39,8 @@ Or copy individual kit folders to `~/.local/share/drumkit/kits/`.
 
 See the [drumkit README](https://github.com/backmeupplz/drumkit#sample-library-structure) for the naming convention.
 
-## License
+## Credits
 
-The WAV samples are from the [FreePats](https://freepats.zenvoid.org/) project and are available under their respective open licenses. See the FreePats website for details.
+- **FreePats GM** — [freepats.zenvoid.org](https://freepats.zenvoid.org/)
+- **AVL Black Pearl** — [bandshed.net/avldrumkits](http://www.bandshed.net/avldrumkits/)
+- **Virtuosity Jazz** — [Virtuosity Drums](https://github.com/sfzinstruments/virtuosity_drums) by Versilian Studios / Karoryfer Samples (overhead mic position)
