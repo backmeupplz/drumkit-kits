@@ -1,0 +1,19 @@
+name = "Personal Jesus 909"
+
+[notes]
+36 = "Kick"
+37 = "Rimshot"
+38 = "Snare"
+39 = "Handclap"
+41 = "Low Tom"
+42 = "Closed Hi-Hat"
+44 = "Pedal Hi-Hat"
+45 = "Mid Tom"
+46 = "Open Hi-Hat"
+48 = "High Tom"
+49 = "Crash"
+51 = "Ride"
+
+[chokes]
+42 = [46]
+44 = [46]

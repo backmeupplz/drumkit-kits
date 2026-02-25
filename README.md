@@ -12,6 +12,7 @@ This repo is kept separate from the main drumkit repo to keep it light. Binary W
 | **avl-black-pearl** | Acoustic rock | 5 | - | 128 files | 21MB | CC-BY-SA 3.0 |
 | **virtuosity-jazz** | Contemporary jazz | up to 36 | up to 4 | 434 files | 227MB | CC0 |
 | **linndrum** | 80s electronic / synth-pop | up to 3 | - | 29 files | 952KB | Public Domain |
+| **personal-jesus-909** | Industrial electronic / TR-909 | 3 | 2 (clap) | 27 files | 2.7MB | Free non-commercial |
 
 ## Usage
 
@@ -46,3 +47,4 @@ See the [drumkit README](https://github.com/backmeupplz/drumkit#sample-library-s
 - **AVL Black Pearl** — [bandshed.net/avldrumkits](http://www.bandshed.net/avldrumkits/)
 - **Virtuosity Jazz** — [Virtuosity Drums](https://github.com/sfzinstruments/virtuosity_drums) by Versilian Studios / Karoryfer Samples (overhead mic position)
 - **LinnDrum LM-2** — [Oramics/Sampled](https://oramics.github.io/sampled/DM/LM-2/) (Public Domain, sourced from machines.hyperreal.org)
+- **Personal Jesus 909** — Roland TR-909 samples by Rob Roy / Rob Roy Recordings (1995), sourced from [drumkito.com](https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/). Free to copy/distribute, not for profit.
