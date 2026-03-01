@@ -1,0 +1,35 @@
+name = "Cats"
+
+[notes]
+21 = "Meow Splash"
+23 = "Meow Half-Open"
+35 = "Cat Roar (Low)"
+36 = "Cat Roar (Kick)"
+37 = "Little Meow (Stick)"
+38 = "Meow (Snare)"
+39 = "Meow (Tom 4 Rim)"
+40 = "Meow (Snare Rim)"
+41 = "Meow (Tom 4)"
+42 = "Little Meow (Closed)"
+43 = "Meow (Tom 3)"
+44 = "Little Meow (Pedal)"
+45 = "Meow (Tom 2)"
+46 = "Little Meow (Open)"
+47 = "Meow (Tom 2 Rim)"
+48 = "Meow (Tom 1)"
+49 = "Growl (Crash 1)"
+50 = "Meow (Tom 1 Rim)"
+51 = "Growl (Ride)"
+52 = "Growl (China)"
+53 = "Little Meow (Bell)"
+54 = "Kitten Mew (Tamb)"
+55 = "Cat Roar (Splash)"
+56 = "Meow (Cowbell)"
+57 = "Cat Roar (Crash 2)"
+58 = "Meow (Tom 3 Rim)"
+59 = "Meow (Ride 2)"
+
+[chokes]
+42 = [46, 23, 21]
+44 = [46, 23, 21]
+23 = [46]
