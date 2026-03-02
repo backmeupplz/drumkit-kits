@@ -14,6 +14,7 @@ This repo is kept separate from the main drumkit repo to keep it light. Binary W
 | **linndrum** | 80s electronic / synth-pop | up to 3 | - | 29 files | 952KB | Public Domain |
 | **personal-jesus-909** | Industrial electronic / TR-909 | 3 | 2 (clap) | 27 files | 2.7MB | Free non-commercial |
 | **cats** | Cat meows & growls | - | - | 27 files | 9MB | CC0 |
+| **wind-cats** | Kick & hi-hat + short cat meows | - | up to 7 | 28 files | 3MB | CC0 / GPL v3+ |
 
 ## Usage
 
@@ -50,3 +51,4 @@ See the [drumkit README](https://github.com/backmeupplz/drumkit#sample-library-s
 - **LinnDrum LM-2** — [Oramics/Sampled](https://oramics.github.io/sampled/DM/LM-2/) (Public Domain, sourced from machines.hyperreal.org)
 - **Personal Jesus 909** — Roland TR-909 samples by Rob Roy / Rob Roy Recordings (1995), sourced from [drumkito.com](https://www.drumkito.com/sample-packs/roland-tr-909-sample-pack/). Free to copy/distribute, not for profit.
 - **Cats** — Cat meow, growl, and roar samples by Joseph Sardin, sourced from [BigSoundBank](https://bigsoundbank.com/). CC0 / Public Domain.
+- **Wind Cats** — Short cat meow samples ("Little Meow of a Cat" #0494, "Little Meow" #1472–#1481, "Meow Cat" #1895, #1896, #1898, #1899) by Joseph Sardin, sourced from [BigSoundBank](https://bigsoundbank.com/). CC0 / Public Domain. Kick and hi-hat samples from [FreePats GM](https://freepats.zenvoid.org/) (GPL v3+).
