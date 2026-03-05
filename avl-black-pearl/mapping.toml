@@ -1,0 +1,42 @@
+name = "AVL Black Pearl"
+
+[notes]
+35 = "Stick Click"
+36 = "Kick"
+37 = "Snare SideStick"
+38 = "Snare Ctr."
+39 = "Hand Clap"
+40 = "Snare Edge"
+41 = "Floor Tom Ctr."
+42 = "Closed Hi-Hat"
+43 = "Floor Tom Edge"
+44 = "Pedal Hi-Hat"
+45 = "Tom Ctr."
+46 = "Semi-Open Hi-Hat"
+47 = "Tom Edge"
+48 = "Hi-Mid Tom"
+49 = "Crash 1"
+50 = "High Tom"
+51 = "Ride Tip"
+52 = "Ride Choked"
+53 = "Ride Bell"
+54 = "Tambourine"
+55 = "Splash Cymbal"
+56 = "Cowbell"
+57 = "Crash 2"
+58 = "Crash 2 Choked"
+59 = "Ride Shank"
+60 = "Crash 3"
+61 = "Maracas"
+62 = "Sticks"
+
+[chokes]
+42 = [46]
+44 = [46]
+
+# AVL Black Pearl has no samples for notes below 35.
+# Remap missing GM notes to the closest available kit samples.
+[remap]
+23 = 46
+48 = 45
+50 = 47
